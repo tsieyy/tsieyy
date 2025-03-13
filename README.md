@@ -19,11 +19,33 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsieyy&card_width=3)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B!;Tsieyy's+States!)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsieyy&theme=default&show_icons=true&count_private=true)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%98%8E!;tsieyy's%F0%9F%AB%A5+States!" alt="Typing SVG" /></a>
+</p>
+
+<h3 align="center">Top Langs</h3>
+<p align="center">
+  <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsieyy&hide=javascript,html,css,scss,gnuplot,java"/>
+</p>
 
 
+
+
+<h3 align="center">Github Status</h3>
+<p align="center">
+  <image align="center" src="https://github-readme-stats.vercel.app/api?username=tsieyy&theme=default&show_icons=true&count_private=true"/>
+</p>
+
+
+
+    
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust-F36D00?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
 
 
